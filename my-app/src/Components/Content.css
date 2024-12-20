@@ -1,0 +1,19 @@
+div {
+    background-color: #106060;
+    color: black;
+    text-align: center;
+    padding: 25px;
+    margin-left: 20px;
+  }
+  
+  h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+  }
+  
+  p {
+    font-size: 1.2em;
+    color: black;
+  }
+  

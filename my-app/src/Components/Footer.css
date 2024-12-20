@@ -1,0 +1,14 @@
+footer {
+  background-color: #282c34; 
+  color: white; /* TEXT COLOR */
+  text-align: center; 
+  padding: 20px 0; 
+  position: fixed; /* FIX IT TO THE BOTTOM OF THE SCREEN */
+  left: 0; 
+  bottom: 0; 
+  width: 100%; 
+}
+
+footer small {
+  font-size: 0.8rem; /* SMALLER FONT FOR THE COPYRIGHT TEXT */
+}
